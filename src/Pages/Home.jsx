@@ -53,7 +53,7 @@ const Home = () => {
               <CircularProgress color="success" />
             </div>
           ) : (
-            currpost?.map((item) => (
+            data?.map((item) => (
               <Cards
                 image={item.image}
                 name={item.name}
