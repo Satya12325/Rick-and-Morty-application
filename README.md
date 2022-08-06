@@ -1,7 +1,15 @@
 # Getting Started with Create React App
+# Desktop view:-
 <img src="https://github.com/Satya12325/Rick-and-Morty-application/blob/master/screencapture-localhost-3001-2022-08-06-18_37_06.png?raw=true"/>
-<img src="https://github.com/Satya12325/Rick-and-Morty-application/blob/master/screencapture-localhost-3001-2022-08-06-18_37_36.png?raw=true"/>
+
+# tab view
+
 <img src="https://github.com/Satya12325/Rick-and-Morty-application/blob/master/screencapture-localhost-3001-2022-08-06-18_37_59.png?raw=true"/>
+
+# mobile view
+
+<img src="https://github.com/Satya12325/Rick-and-Morty-application/blob/master/screencapture-localhost-3001-2022-08-06-18_37_36.png?raw=true"/>
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
