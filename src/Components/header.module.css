@@ -1,0 +1,80 @@
+.buttons {
+  display: flex;
+  width: 300px;
+  justify-content: space-between;
+}
+.btns {
+  background: transparent;
+  border-radius: 5px;
+  border: 0.5px solid #ff9800;
+  font-weight: bold;
+  padding: 10px 15px;
+  font-family: -apple-system, "BlinkMacSystemFont", "Segoe UI", "Roboto",
+    "Helvetica", "Arial", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+}
+.btns:hover {
+  background: #ff9800;
+  color: aliceblue;
+  cursor: pointer;
+}
+.nevigetor {
+  font-family: -apple-system, "BlinkMacSystemFont", "Segoe UI", "Roboto",
+    "Helvetica", "Arial", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+}
+.nevigetor:hover {
+  color: #ff9800;
+  cursor: pointer;
+}
+.footer {
+  height: 80vh;
+  background: #202329;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+h5 {
+  font-family: -apple-system, "BlinkMacSystemFont", "Segoe UI", "Roboto",
+    "Helvetica", "Arial", sans-serif, "Apple Color Emoji", "Segoe UI Emoji",
+    "Segoe UI Symbol";
+  cursor: pointer;
+}
+.footerSubtitle {
+  width: 350px;
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  color: #9e9e9e;
+}
+.footerSubtitle > h5 {
+  line-height: 1;
+  margin-bottom: 0;
+}
+.footerSubtitle > h5:hover {
+  color: #ff9800;
+}
+.footerStatus {
+  width: 140px;
+  display: flex;
+  margin: auto;
+  justify-content: space-between;
+  color: #9e9e9e;
+  align-items: center;
+}
+.footerStatus:hover {
+  color: #ff9800;
+}
+.icons {
+  color: #9e9e9e;
+  width: 150px;
+  display: flex;
+  justify-content: space-between;
+  margin: auto;
+}
+.muiIcon:hover {
+  color: #ff9800;
+  cursor: pointer;
+}
