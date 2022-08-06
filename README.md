@@ -1,7 +1,7 @@
 # Getting Started with Create React App
-<img src="screencapture-localhost-3001-2022-08-06-18_37_06">
-<img src="screencapture-localhost-3001-2022-08-06-18_37_36">
-<img src="screencapture-localhost-3001-2022-08-06-18_37_59">
+<img src="./screencapture-localhost-3001-2022-08-06-18_37_06">
+<img src="./screencapture-localhost-3001-2022-08-06-18_37_36">
+<img src="./screencapture-localhost-3001-2022-08-06-18_37_59">
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
